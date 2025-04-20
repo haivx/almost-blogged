@@ -98,20 +98,5 @@
 		"vite-imagetools": {
 			"sharp": "0.33.5"
 		}
-	},
-	"pnpm": {
-		"supportedArchitectures": {
-			"os": [
-				"linux",
-				"darwin",
-				"current"
-			],
-			"cpu": [
-				"x64",
-				"arm64",
-				"current"
-			]
-		}
-	},
-	"packageManager": "pnpm@9.15.1"
+	}
 }
