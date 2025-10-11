@@ -10,4 +10,5 @@
 <nav class={merge('flex items-center gap-4', className)}>
 	<Link href="/writing">Writing</Link>
 	<Link href="/projects">Projects</Link>
+	<Link href="/stuff">Stuff</Link>
 </nav>
