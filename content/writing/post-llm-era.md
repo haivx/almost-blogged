@@ -1,6 +1,6 @@
 ---
-title: The Post-LLM Era: What Comes Next for AI --- and Frontend Engineers
-description: The Post-LLM Era: What Comes Next for AI --- and Frontend Engineers
+title: The Post LLM Era. What Comes Next for AI
+description: The Post LLM. Era What Comes Next for AI. And Frontend Engineers
 date: 2025-11-11T16:00:00.006Z
 modified: 2025-11-11T18:00:00.006Z
 published: true
